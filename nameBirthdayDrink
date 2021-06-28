@@ -1,0 +1,13 @@
+let myName = "Keira"
+let age = "33"
+let faveDrink = "Energy"
+
+
+console.log (`Hi, my name is ${myName}. I am ${age} and my favourite drink is ${faveDrink}.`)
+// backticks please
+
+myName = "Fred"
+age = "34"
+faveDrink = "Lots of beer"
+
+console.log(`Hi, my name is now ${myName}. I am ${age} and my favourite drink is now ${faveDrink}.`)
