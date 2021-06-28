@@ -1,0 +1,12 @@
+let breakfast ="Weetabix"
+let lunch = "Hummus"
+let dinner = "Lots of beer"
+
+console.log(`My breakfast is ${breakfast}. My lunch was ${lunch} and my dinner is ${dinner}.`)
+
+breakfast = "Tabouleh"
+lunch = "Garam Masala"
+dinner = "even more beer"
+
+
+console.log(`My breakfast is ${breakfast}. My lunch was ${lunch} and my dinner is ${dinner}.`)
